@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Deep Joshi</h1>
-<h3 align="center">BCA Student | Aspiring Software Developer 🚀</h3>
+<h3 align="center">MCA Student | Aspiring Software Developer 🚀</h3>
 
 ---
 
