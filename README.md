@@ -20,19 +20,6 @@
 
 ### 🚀 Projects
 - 🏦 Banking System (Java - Console Based)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nayandeep-08&show_icons=true&theme=radical" />
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=nayandeep-08&theme=radical" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
